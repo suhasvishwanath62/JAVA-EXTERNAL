@@ -11,6 +11,7 @@ public void paint(Graphics g)
 g.drawString("Welcome to applet",100,150);
 }
 }
+---------------
 command:
 javac AppletP.java
 appletviewer AppletP.java
